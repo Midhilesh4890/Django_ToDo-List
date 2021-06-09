@@ -1,1 +1,1 @@
-# Djamgo_ToDo-List
+# Django_ToDo-List
